@@ -1,0 +1,10 @@
+node_modules
+.husky
+.gitignore
+.prettierignore
+.prettierrc
+.solhintignore
+README.md
+*.js
+scripts
+*.json
